@@ -1,0 +1,1 @@
+Zasielnané informačných e-mailov o podaní žiadosti sa zašle len niektorým úšastníkom sekvencie a nie všetkým.
