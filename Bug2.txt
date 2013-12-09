@@ -1,1 +1,0 @@
-Pri testovaní na operačnom systéme Ubuntu sa pravidelne ruší pripojenie k serveru.
