@@ -1,0 +1,1 @@
+Pri prepínaní jazyka z SVK na ENG niektoré znaky nezobrazuje korektne.
